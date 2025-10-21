@@ -16,48 +16,48 @@
     
     <key>StartCalendarInterval</key>
     <array>
-        <!-- Monday at 8:00 PM -->
+        <!-- Monday at 6:00 PM -->
         <dict>
             <key>Weekday</key>
             <integer>1</integer>
             <key>Hour</key>
-            <integer>20</integer>
+            <integer>18</integer>
             <key>Minute</key>
             <integer>0</integer>
         </dict>
-        <!-- Tuesday at 8:00 PM -->
+        <!-- Tuesday at 6:00 PM -->
         <dict>
             <key>Weekday</key>
             <integer>2</integer>
             <key>Hour</key>
-            <integer>20</integer>
+            <integer>18</integer>
             <key>Minute</key>
             <integer>0</integer>
         </dict>
-        <!-- Wednesday at 8:00 PM -->
+        <!-- Wednesday at 6:00 PM -->
         <dict>
             <key>Weekday</key>
             <integer>3</integer>
             <key>Hour</key>
-            <integer>20</integer>
+            <integer>18</integer>
             <key>Minute</key>
             <integer>0</integer>
         </dict>
-        <!-- Thursday at 8:00 PM -->
+        <!-- Thursday at 6:00 PM -->
         <dict>
             <key>Weekday</key>
             <integer>4</integer>
             <key>Hour</key>
-            <integer>20</integer>
+            <integer>18</integer>
             <key>Minute</key>
             <integer>0</integer>
         </dict>
-        <!-- Friday at 8:00 PM -->
+        <!-- Friday at 6:00 PM -->
         <dict>
             <key>Weekday</key>
             <integer>5</integer>
             <key>Hour</key>
-            <integer>20</integer>
+            <integer>18</integer>
             <key>Minute</key>
             <integer>0</integer>
         </dict>

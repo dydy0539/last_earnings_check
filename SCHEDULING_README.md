@@ -2,7 +2,7 @@
 
 ## 📅 Automated Schedule
 
-The daily playbook analysis is now scheduled to run **automatically every weekday (Monday-Friday) at 8:00 PM**.
+The daily playbook analysis is now scheduled to run **automatically every weekday (Monday-Friday) at 6:00 PM**.
 
 ## How It Works
 
@@ -53,7 +53,7 @@ launchctl list | grep playbook
 ```
 
 ### View upcoming schedule:
-The task will run at 8:00 PM every Monday-Friday automatically.
+The task will run at 6:00 PM every Monday-Friday automatically.
 
 ### Stop the scheduled task:
 ```bash
@@ -82,7 +82,7 @@ tail -f logs/daily_analysis_error.log
 ## Schedule Details
 
 - **Frequency**: Every weekday (Monday-Friday)
-- **Time**: 8:00 PM (20:00)
+- **Time**: 6:00 PM (18:00)
 - **Timezone**: System local time
 - **Weekend Behavior**: Script exits gracefully on weekends
 
