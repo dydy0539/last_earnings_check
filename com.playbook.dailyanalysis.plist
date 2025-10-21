@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.playbook.dailyanalysis</string>
+    
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Library/Frameworks/Python.framework/Versions/3.10/bin/python3</string>
+        <string>/Users/yiding/Dropbox/My Mac (Yis-MacBook-Pro.local)/Documents/last_earnings_check/daily_playbook_analysis.py</string>
+    </array>
+    
+    <key>WorkingDirectory</key>
+    <string>/Users/yiding/Dropbox/My Mac (Yis-MacBook-Pro.local)/Documents/last_earnings_check</string>
+    
+    <key>StartCalendarInterval</key>
+    <array>
+        <!-- Monday at 8:00 PM -->
+        <dict>
+            <key>Weekday</key>
+            <integer>1</integer>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <!-- Tuesday at 8:00 PM -->
+        <dict>
+            <key>Weekday</key>
+            <integer>2</integer>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <!-- Wednesday at 8:00 PM -->
+        <dict>
+            <key>Weekday</key>
+            <integer>3</integer>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <!-- Thursday at 8:00 PM -->
+        <dict>
+            <key>Weekday</key>
+            <integer>4</integer>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+        <!-- Friday at 8:00 PM -->
+        <dict>
+            <key>Weekday</key>
+            <integer>5</integer>
+            <key>Hour</key>
+            <integer>20</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
+    
+    <key>StandardOutPath</key>
+    <string>/Users/yiding/Dropbox/My Mac (Yis-MacBook-Pro.local)/Documents/last_earnings_check/logs/daily_analysis.log</string>
+    
+    <key>StandardErrorPath</key>
+    <string>/Users/yiding/Dropbox/My Mac (Yis-MacBook-Pro.local)/Documents/last_earnings_check/logs/daily_analysis_error.log</string>
+    
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
+

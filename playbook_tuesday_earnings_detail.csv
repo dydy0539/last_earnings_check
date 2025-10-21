@@ -1,0 +1,17 @@
+Ticker,Date,Timing,Comparison,Price Before,Price After,Return
+GEV,2025-07-23,After Market Close,Next Day vs Earnings,$623.97,$644.59,+3.30%
+GEV,2025-04-23,After Market Close,Next Day vs Earnings,$360.33,$372.26,+3.31%
+GEV,2025-01-22,After Market Close,Next Day vs Earnings,$437.19,$419.99,-3.93%
+GEV,2024-10-23,After Market Close,Next Day vs Earnings,$296.42,$292.97,-1.16%
+VRT,2025-06-19,After Market Close,Next Day vs Earnings,$118.51,$116.51,-1.69%
+VRT,2025-04-23,After Market Close,Next Day vs Earnings,$83.83,$86.90,+3.66%
+VRT,2025-02-12,After Market Close,Next Day vs Earnings,$109.17,$107.94,-1.13%
+VRT,2024-10-23,After Market Close,Next Day vs Earnings,$109.88,$112.02,+1.94%
+T,2025-07-23,After Market Close,Next Day vs Earnings,$27.62,$27.70,+0.29%
+T,2025-05-16,After Market Close,Next Day vs Earnings,$27.45,$27.21,-0.86%
+T,2025-04-23,After Market Close,Next Day vs Earnings,$26.97,$26.26,-2.62%
+T,2025-01-27,After Market Close,Next Day vs Earnings,$23.65,$23.49,-0.70%
+CME,2025-05-09,After Market Close,Next Day vs Earnings,$267.96,$265.85,-0.79%
+CME,2025-04-23,After Market Close,Next Day vs Earnings,$260.82,$263.82,+1.15%
+CME,2025-02-12,After Market Close,Next Day vs Earnings,$246.57,$242.00,-1.85%
+CME,2024-10-23,After Market Close,Next Day vs Earnings,$219.88,$216.48,-1.55%

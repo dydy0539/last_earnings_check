@@ -9,7 +9,16 @@ venv/
 ENV/
 
 # CSV data files
-*.csv
+*_historical_data.csv
+*_analysis_results.csv
+*_performance_analysis_results.csv
+
+# Daily analysis output files
+daily_analysis_*.csv
+
+# Logs
+logs/
+*.log
 
 # Excel temp files
 ~$*.xlsx
